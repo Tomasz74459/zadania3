@@ -1,0 +1,15 @@
+C:\Users\GM Cedry Wielkie\Desktop\zadania#3\RSAFileEncryption\HybridEncryption\SinusoidApp\bin\Debug\net7.0-windows\SinusoidApp.exe
+C:\Users\GM Cedry Wielkie\Desktop\zadania#3\RSAFileEncryption\HybridEncryption\SinusoidApp\bin\Debug\net7.0-windows\SinusoidApp.deps.json
+C:\Users\GM Cedry Wielkie\Desktop\zadania#3\RSAFileEncryption\HybridEncryption\SinusoidApp\bin\Debug\net7.0-windows\SinusoidApp.runtimeconfig.json
+C:\Users\GM Cedry Wielkie\Desktop\zadania#3\RSAFileEncryption\HybridEncryption\SinusoidApp\bin\Debug\net7.0-windows\SinusoidApp.dll
+C:\Users\GM Cedry Wielkie\Desktop\zadania#3\RSAFileEncryption\HybridEncryption\SinusoidApp\bin\Debug\net7.0-windows\SinusoidApp.pdb
+C:\Users\GM Cedry Wielkie\Desktop\zadania#3\RSAFileEncryption\HybridEncryption\SinusoidApp\obj\Debug\net7.0-windows\SinusoidApp.csproj.AssemblyReference.cache
+C:\Users\GM Cedry Wielkie\Desktop\zadania#3\RSAFileEncryption\HybridEncryption\SinusoidApp\obj\Debug\net7.0-windows\SinusoidApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GM Cedry Wielkie\Desktop\zadania#3\RSAFileEncryption\HybridEncryption\SinusoidApp\obj\Debug\net7.0-windows\SinusoidApp.AssemblyInfoInputs.cache
+C:\Users\GM Cedry Wielkie\Desktop\zadania#3\RSAFileEncryption\HybridEncryption\SinusoidApp\obj\Debug\net7.0-windows\SinusoidApp.AssemblyInfo.cs
+C:\Users\GM Cedry Wielkie\Desktop\zadania#3\RSAFileEncryption\HybridEncryption\SinusoidApp\obj\Debug\net7.0-windows\SinusoidApp.csproj.CoreCompileInputs.cache
+C:\Users\GM Cedry Wielkie\Desktop\zadania#3\RSAFileEncryption\HybridEncryption\SinusoidApp\obj\Debug\net7.0-windows\SinusoidApp.dll
+C:\Users\GM Cedry Wielkie\Desktop\zadania#3\RSAFileEncryption\HybridEncryption\SinusoidApp\obj\Debug\net7.0-windows\refint\SinusoidApp.dll
+C:\Users\GM Cedry Wielkie\Desktop\zadania#3\RSAFileEncryption\HybridEncryption\SinusoidApp\obj\Debug\net7.0-windows\SinusoidApp.pdb
+C:\Users\GM Cedry Wielkie\Desktop\zadania#3\RSAFileEncryption\HybridEncryption\SinusoidApp\obj\Debug\net7.0-windows\SinusoidApp.genruntimeconfig.cache
+C:\Users\GM Cedry Wielkie\Desktop\zadania#3\RSAFileEncryption\HybridEncryption\SinusoidApp\obj\Debug\net7.0-windows\ref\SinusoidApp.dll

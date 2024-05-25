@@ -1,0 +1,15 @@
+C:\Users\GM Cedry Wielkie\Desktop\zadania#3\DzielenieLiczb\DESBruteforce\bin\Debug\net7.0\DESBruteforce.exe
+C:\Users\GM Cedry Wielkie\Desktop\zadania#3\DzielenieLiczb\DESBruteforce\bin\Debug\net7.0\DESBruteforce.deps.json
+C:\Users\GM Cedry Wielkie\Desktop\zadania#3\DzielenieLiczb\DESBruteforce\bin\Debug\net7.0\DESBruteforce.runtimeconfig.json
+C:\Users\GM Cedry Wielkie\Desktop\zadania#3\DzielenieLiczb\DESBruteforce\bin\Debug\net7.0\DESBruteforce.dll
+C:\Users\GM Cedry Wielkie\Desktop\zadania#3\DzielenieLiczb\DESBruteforce\bin\Debug\net7.0\DESBruteforce.pdb
+C:\Users\GM Cedry Wielkie\Desktop\zadania#3\DzielenieLiczb\DESBruteforce\obj\Debug\net7.0\DESBruteforce.csproj.AssemblyReference.cache
+C:\Users\GM Cedry Wielkie\Desktop\zadania#3\DzielenieLiczb\DESBruteforce\obj\Debug\net7.0\DESBruteforce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GM Cedry Wielkie\Desktop\zadania#3\DzielenieLiczb\DESBruteforce\obj\Debug\net7.0\DESBruteforce.AssemblyInfoInputs.cache
+C:\Users\GM Cedry Wielkie\Desktop\zadania#3\DzielenieLiczb\DESBruteforce\obj\Debug\net7.0\DESBruteforce.AssemblyInfo.cs
+C:\Users\GM Cedry Wielkie\Desktop\zadania#3\DzielenieLiczb\DESBruteforce\obj\Debug\net7.0\DESBruteforce.csproj.CoreCompileInputs.cache
+C:\Users\GM Cedry Wielkie\Desktop\zadania#3\DzielenieLiczb\DESBruteforce\obj\Debug\net7.0\DESBruteforce.dll
+C:\Users\GM Cedry Wielkie\Desktop\zadania#3\DzielenieLiczb\DESBruteforce\obj\Debug\net7.0\refint\DESBruteforce.dll
+C:\Users\GM Cedry Wielkie\Desktop\zadania#3\DzielenieLiczb\DESBruteforce\obj\Debug\net7.0\DESBruteforce.pdb
+C:\Users\GM Cedry Wielkie\Desktop\zadania#3\DzielenieLiczb\DESBruteforce\obj\Debug\net7.0\DESBruteforce.genruntimeconfig.cache
+C:\Users\GM Cedry Wielkie\Desktop\zadania#3\DzielenieLiczb\DESBruteforce\obj\Debug\net7.0\ref\DESBruteforce.dll

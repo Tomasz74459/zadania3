@@ -1,0 +1,15 @@
+C:\Users\GM Cedry Wielkie\Desktop\zadania#3\RSAFileEncryption\HybridEncryption\bin\Debug\net7.0\HybridEncryption.exe
+C:\Users\GM Cedry Wielkie\Desktop\zadania#3\RSAFileEncryption\HybridEncryption\bin\Debug\net7.0\HybridEncryption.deps.json
+C:\Users\GM Cedry Wielkie\Desktop\zadania#3\RSAFileEncryption\HybridEncryption\bin\Debug\net7.0\HybridEncryption.runtimeconfig.json
+C:\Users\GM Cedry Wielkie\Desktop\zadania#3\RSAFileEncryption\HybridEncryption\bin\Debug\net7.0\HybridEncryption.dll
+C:\Users\GM Cedry Wielkie\Desktop\zadania#3\RSAFileEncryption\HybridEncryption\bin\Debug\net7.0\HybridEncryption.pdb
+C:\Users\GM Cedry Wielkie\Desktop\zadania#3\RSAFileEncryption\HybridEncryption\obj\Debug\net7.0\HybridEncryption.csproj.AssemblyReference.cache
+C:\Users\GM Cedry Wielkie\Desktop\zadania#3\RSAFileEncryption\HybridEncryption\obj\Debug\net7.0\HybridEncryption.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GM Cedry Wielkie\Desktop\zadania#3\RSAFileEncryption\HybridEncryption\obj\Debug\net7.0\HybridEncryption.AssemblyInfoInputs.cache
+C:\Users\GM Cedry Wielkie\Desktop\zadania#3\RSAFileEncryption\HybridEncryption\obj\Debug\net7.0\HybridEncryption.AssemblyInfo.cs
+C:\Users\GM Cedry Wielkie\Desktop\zadania#3\RSAFileEncryption\HybridEncryption\obj\Debug\net7.0\HybridEncryption.csproj.CoreCompileInputs.cache
+C:\Users\GM Cedry Wielkie\Desktop\zadania#3\RSAFileEncryption\HybridEncryption\obj\Debug\net7.0\HybridEncryption.dll
+C:\Users\GM Cedry Wielkie\Desktop\zadania#3\RSAFileEncryption\HybridEncryption\obj\Debug\net7.0\refint\HybridEncryption.dll
+C:\Users\GM Cedry Wielkie\Desktop\zadania#3\RSAFileEncryption\HybridEncryption\obj\Debug\net7.0\HybridEncryption.pdb
+C:\Users\GM Cedry Wielkie\Desktop\zadania#3\RSAFileEncryption\HybridEncryption\obj\Debug\net7.0\HybridEncryption.genruntimeconfig.cache
+C:\Users\GM Cedry Wielkie\Desktop\zadania#3\RSAFileEncryption\HybridEncryption\obj\Debug\net7.0\ref\HybridEncryption.dll

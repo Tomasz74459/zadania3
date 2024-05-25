@@ -1,0 +1,15 @@
+C:\Users\GM Cedry Wielkie\Desktop\zadania#3\DzielenieLiczb\CryptoBenchmark\bin\Debug\net7.0\CryptoBenchmark.exe
+C:\Users\GM Cedry Wielkie\Desktop\zadania#3\DzielenieLiczb\CryptoBenchmark\bin\Debug\net7.0\CryptoBenchmark.deps.json
+C:\Users\GM Cedry Wielkie\Desktop\zadania#3\DzielenieLiczb\CryptoBenchmark\bin\Debug\net7.0\CryptoBenchmark.runtimeconfig.json
+C:\Users\GM Cedry Wielkie\Desktop\zadania#3\DzielenieLiczb\CryptoBenchmark\bin\Debug\net7.0\CryptoBenchmark.dll
+C:\Users\GM Cedry Wielkie\Desktop\zadania#3\DzielenieLiczb\CryptoBenchmark\bin\Debug\net7.0\CryptoBenchmark.pdb
+C:\Users\GM Cedry Wielkie\Desktop\zadania#3\DzielenieLiczb\CryptoBenchmark\obj\Debug\net7.0\CryptoBenchmark.csproj.AssemblyReference.cache
+C:\Users\GM Cedry Wielkie\Desktop\zadania#3\DzielenieLiczb\CryptoBenchmark\obj\Debug\net7.0\CryptoBenchmark.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GM Cedry Wielkie\Desktop\zadania#3\DzielenieLiczb\CryptoBenchmark\obj\Debug\net7.0\CryptoBenchmark.AssemblyInfoInputs.cache
+C:\Users\GM Cedry Wielkie\Desktop\zadania#3\DzielenieLiczb\CryptoBenchmark\obj\Debug\net7.0\CryptoBenchmark.AssemblyInfo.cs
+C:\Users\GM Cedry Wielkie\Desktop\zadania#3\DzielenieLiczb\CryptoBenchmark\obj\Debug\net7.0\CryptoBenchmark.csproj.CoreCompileInputs.cache
+C:\Users\GM Cedry Wielkie\Desktop\zadania#3\DzielenieLiczb\CryptoBenchmark\obj\Debug\net7.0\CryptoBenchmark.dll
+C:\Users\GM Cedry Wielkie\Desktop\zadania#3\DzielenieLiczb\CryptoBenchmark\obj\Debug\net7.0\refint\CryptoBenchmark.dll
+C:\Users\GM Cedry Wielkie\Desktop\zadania#3\DzielenieLiczb\CryptoBenchmark\obj\Debug\net7.0\CryptoBenchmark.pdb
+C:\Users\GM Cedry Wielkie\Desktop\zadania#3\DzielenieLiczb\CryptoBenchmark\obj\Debug\net7.0\CryptoBenchmark.genruntimeconfig.cache
+C:\Users\GM Cedry Wielkie\Desktop\zadania#3\DzielenieLiczb\CryptoBenchmark\obj\Debug\net7.0\ref\CryptoBenchmark.dll
